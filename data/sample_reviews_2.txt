@@ -1,0 +1,3 @@
+We tried TestGorilla for screening developers. The pricing is high for what it offers, and the interface is hard to use. Our team found the user experience confusing and not intuitive.
+
+CodeSignal’s tests also felt too long and the process was slow. There was no feedback on why candidates failed, which created a recruiter bottleneck and wasted time.

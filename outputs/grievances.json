@@ -1,0 +1,61 @@
+[
+  {
+    "company": "Sample Reviews 1",
+    "signal_type": "competitor_grievance",
+    "source_url": "file://C:\\Users\\Harshitha\\OneDrive\\first app\\Signal detection\\data\\sample_reviews_1.txt",
+    "matched_keywords": [
+      "not intuitive"
+    ],
+    "matched_competitors": [
+      "Codility"
+    ],
+    "pain_points": [
+      "usability"
+    ],
+    "signal_score": 30,
+    "detected_at": "2026-04-16T16:10:46.704607Z",
+    "reason": "Negative feedback about Codility with phrases: not intuitive",
+    "raw_text": "Codility\u2019s coding challenges are not intuitive and the user experience is poor"
+  },
+  {
+    "company": "Sample Reviews 3",
+    "signal_type": "competitor_grievance",
+    "source_url": "file://C:\\Users\\Harshitha\\OneDrive\\first app\\Signal detection\\data\\sample_reviews_3.txt",
+    "matched_keywords": [
+      "bias",
+      "biased",
+      "black box"
+    ],
+    "matched_competitors": [
+      "HireVue"
+    ],
+    "pain_points": [
+      "bias_fairness",
+      "lack_transparency"
+    ],
+    "signal_score": 30,
+    "detected_at": "2026-04-16T16:10:46.705756Z",
+    "reason": "Negative feedback about HireVue with phrases: bias, biased, black box",
+    "raw_text": "HireVue video interviews felt biased and like a black box"
+  },
+  {
+    "company": "Sample Reviews 3",
+    "signal_type": "competitor_grievance",
+    "source_url": "file://C:\\Users\\Harshitha\\OneDrive\\first app\\Signal detection\\data\\sample_reviews_3.txt",
+    "matched_keywords": [
+      "outdated",
+      "poor user experience"
+    ],
+    "matched_competitors": [
+      "Spark Hire"
+    ],
+    "pain_points": [
+      "product_quality",
+      "usability"
+    ],
+    "signal_score": 30,
+    "detected_at": "2026-04-16T16:10:46.705832Z",
+    "reason": "Negative feedback about Spark Hire with phrases: outdated, poor user experience",
+    "raw_text": "Spark Hire had an outdated interface and poor user experience"
+  }
+]

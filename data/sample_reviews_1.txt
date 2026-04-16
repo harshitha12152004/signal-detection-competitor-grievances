@@ -1,0 +1,5 @@
+I recently took a HackerRank coding test for a backend role. The questions were very expensive in terms of time, and the process was slow. The interface felt broken and glitchy, and there was no feedback at all.
+
+HireVue video interviews were a nightmare. The AI felt like a black box, and I felt completely biased against because of my accent. The recruiter bottleneck was insane, and the whole process took too long.
+
+Codility’s coding challenges are not intuitive and the user experience is poor. The platform is outdated and the questions are weird. It feels unfair and not transparent.
