@@ -1,0 +1,22 @@
+service: competitor-grievance-detector
+org: your_org_name
+app: your_app_name
+
+
+
+provider:
+  name: aws
+  runtime: python3.10
+  region: us-east-1
+
+plugins:
+  - serverless-offline
+
+functions:
+  detectGrievances:
+    handler: handler.detect_grievances_lambda
+    events:
+      - http:
+          path: detect
+          method: post
+          cors: true
